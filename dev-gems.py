@@ -32,7 +32,7 @@ def play_loop():
     if play_game == "y":
         main()
     elif play_game == "n":
-        print("Thanks For Playing! We expect you back again!")
+        print("Thanks alot For Playing! We expect you back again!")
         exit()
 # Initializing all the conditions required for the game:
 def hangman():
